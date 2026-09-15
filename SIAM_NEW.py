@@ -85,9 +85,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8745037791:AAHx6XjGfFXhGWVND7hoXuv5fyA_kje1vP8")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8474320835:AAElr7GyKnqk7mzdFCN_1jYHNL8uvmO6umk")
 OWNER_ID = int(os.environ.get("OWNER_ID", 7350349936))
-ADMIN_ID = int(os.environ.get("ADMIN_ID", 8899695276))
+ADMIN_ID = int(os.environ.get("ADMIN_ID", 8869210750))
 YOUR_USERNAME = '@SIAM_CODEX'
 UPDATE_CHANNEL = 'https://t.me/SIAM_CoDeXFILE'
 
