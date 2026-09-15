@@ -85,7 +85,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8474320835:AAElr7GyKnqk7mzdFCN_1jYHNL8uvmO6umk")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8691545020:AAF36x7bQBZnUtHGWMuefBEvZfkYrad9v80")
 OWNER_ID = int(os.environ.get("OWNER_ID", 7350349936))
 ADMIN_ID = int(os.environ.get("ADMIN_ID", 8869210750))
 YOUR_USERNAME = '@SIAM_CODEX'
